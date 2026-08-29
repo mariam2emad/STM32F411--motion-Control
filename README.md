@@ -33,6 +33,6 @@ I was responsible for the hardware design of this board, including:
 
 ## Project Files
 
-- 📐 [PCB 2D Layout](PCB%202D)
-- 🧊 [PCB 3D Design](PCB%203D)
+- 📐 [PCB 2D View](PCB%202D)
+- 🧊 [PCB 3D View](PCB%203D)
 - 📋 [Control Schematic](Control%20Schematic)
