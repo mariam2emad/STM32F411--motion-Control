@@ -36,19 +36,15 @@ I was responsible for the hardware design of this board, including:
 
 ### 3D View
 
-![PCB 3D View](PCB/PCB_3D.png)
+![PCB 3D View](PCB/PCB 3D.png)
 
-### PCB Layout - Top
+### PCB Layout 2D View
 
-![PCB Top](PCB/PCB_Top.png)
-
-### PCB Layout - Bottom
-
-![PCB Bottom](PCB/PCB_Bottom.png)
+![PCB Top](PCB/PCB 2D.png)
 
 ## Schematic
 
-The schematic is available in the `Schematic` folder.
+The schematic is available in the `control Schematic` folder.
 
 ## Project Structure
 
