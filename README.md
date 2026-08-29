@@ -4,9 +4,9 @@ Custom motion-control PCB designed around the STM32F411 microcontroller.
 
 ## Overview
 
-This project is a custom PCB designed for a motion-control system. 
-The board is based on the STM32F411 MCU and provides the required 
-interfaces for motor control and encoder feedback.
+This project is a custom PCB designed for a motion-control system.
+The board is based on the STM32F411 MCU and provides interfaces for
+motor control and encoder feedback.
 
 ## Hardware
 
@@ -15,13 +15,11 @@ interfaces for motor control and encoder feedback.
 - Encoder interfaces
 - Power regulation
 - Communication interfaces
-- Custom PCB
 
 ## My Contribution
 
 I was responsible for the hardware design of this board, including:
 
-- Hardware architecture
 - Schematic design
 - Component selection
 - PCB layout
@@ -31,23 +29,10 @@ I was responsible for the hardware design of this board, including:
 ## Tools
 
 - Altium Designer
+- STM32F411
 
-## PCB Design
+## Project Files
 
-### 3D View
-
-![PCB 3D View](PCB/PCB 3D.png)
-
-### PCB Layout 2D View
-
-![PCB Top](PCB/PCB 2D.png)
-
-## Schematic
-
-The schematic is available in the `control Schematic` folder.
-
-## Project Structure
-
-```text
-Schematic/   → Schematic PDF
-PCB/         → PCB layout and 3D views
+- 📐 [PCB 2D Layout](PCB%202D)
+- 🧊 [PCB 3D Design](PCB%203D)
+- 📋 [Control Schematic](Control%20Schematic)
