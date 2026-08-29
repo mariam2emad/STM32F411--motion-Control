@@ -26,13 +26,6 @@ I was responsible for the hardware design of this board, including:
 - Component placement and routing
 - Design verification
 
-## Tools
+## Tool
 
 - Altium Designer
-- STM32F411
-
-## Project Files
-
-- 📐 [PCB 2D View](PCB%202D)
-- 🧊 [PCB 3D View](PCB%203D)
-- 📋 [Control Schematic](Control%20Schematic)
